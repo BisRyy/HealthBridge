@@ -17,22 +17,22 @@ Remote communities in Africa struggle to access reliable healthcare services, le
 
 ## Technical Stack
 - **Programming Languages:**
-  - JavaScript (for front-end development)
-  - Dart (for mobile app development with Flutter)
-  - Python (for backend development and AI model integration)
+    - JavaScript (for front-end development)
+    - Dart (for mobile app development with Flutter)
+    - Python (for backend development and AI model integration)
 - **Frameworks/Libraries:**
-  - Flutter (for cross-platform mobile applications)
-  - React (for web applications)
-  - FastAPI (for backend development)
-  - TensorFlow/PyTorch (for AI models)
-  - NLTK (for natural language processing)
+    - Flutter (for cross-platform mobile applications)
+    - React (for web applications)
+    - FastAPI (for backend development)
+    - TensorFlow/PyTorch (for AI models)
+    - NLTK (for natural language processing)
 - **Tools:**
-  - Git (for version control)
-  - Jupyter Notebook (for data analysis and model training)
-  - PostgreSQL (for database management)
-  - Docker (for containerization)
-  - Google Cloud Platform (for computing and deployment)
-  - LangChain (for instruction chaining and Gen-AI libraries)
+    - Git (for version control)
+    - Jupyter Notebook (for data analysis and model training)
+    - PostgreSQL (for database management)
+    - Docker (for containerization)
+    - Google Cloud Platform (for computing and deployment)
+    - LangChain (for instruction chaining and Gen-AI libraries)
 
 ## Project Structure
 - **backend/**: Contains all backend-related code, including API endpoints and database models.
